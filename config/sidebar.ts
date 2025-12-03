@@ -28,7 +28,7 @@ export const SocialMedias: SocialMedia[] = [
   },
   {
     label: 'Dev.to',
-    href: 'https://dev.to/wingyin74',
+    href: 'https://dev.to/wingyindev',
     icon: FaDev,
   },
 ]
