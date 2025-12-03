@@ -23,7 +23,7 @@ export const SocialMedias: SocialMedia[] = [
   },
   {
     label: 'Github',
-    href: 'https://github.com/wingyin74',
+    href: 'https://github.com/wingyindev',
     icon: FaGithub,
   },
   {
